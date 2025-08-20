@@ -106,4 +106,4 @@ _Total tags: **91**_
 
 ## 📜 License
 
-MIT (or whatever you choose).  
+[MIT](LICENSE).  
